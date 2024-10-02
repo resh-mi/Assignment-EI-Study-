@@ -1,7 +1,7 @@
 # **Solution to the Assignment of Ei Study**
 
 ## **Excercise 1**
-This repository contains my solution to the first exercise of the Ei Study assignment, where I demonstrate six different use cases of software design patterns in Java. Each use case aligns with global best practices for clarity, modularity, and performance.
+This is my solution to the first exercise of the Ei Study assignment, where I demonstrate six different use cases of software design patterns in Java. Each use case aligns with global best practices for clarity, modularity, and performance.
 
 ## **Structure**
 The repository is organized as follows:
