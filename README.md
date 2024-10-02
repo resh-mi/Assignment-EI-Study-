@@ -96,12 +96,12 @@ The project is divided into several key components, each adhering to design prin
    git clone https://github.com/your-username/Assignment-EI-Study-.git
 
 ### Design Principles & Best Practices
-**Encapsulation and Abstraction**: SmartDevice serves as an abstract class to enforce a consistent interface for all devices.
-**Centralized Management**: The SmartHomeHub (Singleton Pattern) ensures a single point of control for all smart devices.
-**Extendability & Maintainability**: The factory pattern allows for the easy addition of new device types without modifying existing code.
-**Automation with Scheduling**: The Scheduler provides basic automation by scheduling actions, demonstrating how design patterns can integrate to create responsive systems.
+-**Encapsulation and Abstraction**: SmartDevice serves as an abstract class to enforce a consistent interface for all devices.
+-**Centralized Management**: The SmartHomeHub (Singleton Pattern) ensures a single point of control for all smart devices.
+-**Extendability & Maintainability**: The factory pattern allows for the easy addition of new device types without modifying existing code.
+-**Automation with Scheduling**: The Scheduler provides basic automation by scheduling actions, demonstrating how design patterns can integrate to create responsive systems.
 
-**The Smart Home System exercise demonstrates practical use of multiple design patterns to build a modular, flexible, and maintainable system. The integration of these patterns provides a scalable way to manage various smart devices, respond to user inputs, and automate tasks based on schedules. This project emphasizes how design patterns can effectively organize code, enhance reusability, and promote clear separation of concerns.This exercise has allowed me to explore different design patterns and their practical applications. By implementing these patterns, I’ve aimed to showcase an understanding of how to solve real-world problems using design principles, ensuring code is maintainable, extendable, and efficient.**
+-**The Smart Home System exercise demonstrates practical use of multiple design patterns to build a modular, flexible, and maintainable system. The integration of these patterns provides a scalable way to manage various smart devices, respond to user inputs, and automate tasks based on schedules. This project emphasizes how design patterns can effectively organize code, enhance reusability, and promote clear separation of concerns.This exercise has allowed me to explore different design patterns and their practical applications. By implementing these patterns, I’ve aimed to showcase an understanding of how to solve real-world problems using design principles, ensuring code is maintainable, extendable, and efficient.**
 
 Feel free to explore the code, run different patterns, and reach out if you have any questions or need further details!
 
