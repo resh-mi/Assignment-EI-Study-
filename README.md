@@ -95,7 +95,7 @@ The project is divided into several key components, each adhering to design prin
    ```bash
    git clone https://github.com/your-username/Assignment-EI-Study-.git
 
-###Design Principles & Best Practices
+### Design Principles & Best Practices
 **Encapsulation and Abstraction**: SmartDevice serves as an abstract class to enforce a consistent interface for all devices.
 **Centralized Management**: The SmartHomeHub (Singleton Pattern) ensures a single point of control for all smart devices.
 **Extendability & Maintainability**: The factory pattern allows for the easy addition of new device types without modifying existing code.
