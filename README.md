@@ -1,6 +1,6 @@
 # **Solution to the Assignment of Ei Study**
 
-## **Overview**
+## **Excercise 1**
 This repository contains my solution to the first exercise of the Ei Study assignment, where I demonstrate six different use cases of software design patterns in Java. Each use case aligns with global best practices for clarity, modularity, and performance.
 
 ## **Structure**
@@ -57,4 +57,3 @@ Each pattern adheres to high coding standards, ensuring easy maintenance, strong
 
 Feel free to explore the code, run different patterns, and reach out if you have any questions or need further details!
 
-Note: Make sure to replace https://github.com/your-username/Assignment-EI-Study.git with your actual GitHub repository URL.
